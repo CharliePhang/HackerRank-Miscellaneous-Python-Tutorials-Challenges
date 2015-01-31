@@ -1,4 +1,4 @@
-# Enter your code here. Read input from STDIN. Print output to STDOUT
+# https://www.hackerrank.com/challenges/list-comprehensions
 X = int(raw_input())
 Y = int(raw_input())
 Z = int(raw_input())

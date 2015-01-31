@@ -1,4 +1,4 @@
-# Enter your code here. Read input from STDIN. Print output to STDOUT
+# https://www.hackerrank.com/challenges/nested-list
 
 listStudentScores = [[raw_input(), float(raw_input())]
                      for _ in xrange(int(raw_input()))]
